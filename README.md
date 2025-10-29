@@ -10,8 +10,3 @@ Tiempo: 229.05 segundos
 
 ## Archivos
 * **results.txt**: Resultados de la paralelizacion de los primeros n numeros primos con Open MP. Los atributos son: Schedule,Chunk,Threads,Time. 
-
-## Informe
-**Overleaf**
-- email: grupo25optimizacion@gmail.com
-- contraseña: g25_overlief
