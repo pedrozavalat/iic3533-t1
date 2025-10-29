@@ -10,3 +10,4 @@ Tiempo: 229.05 segundos
 
 ## Archivos
 * **results.txt**: Resultados de la paralelizacion de los primeros n numeros primos con Open MP. Los atributos son: Schedule,Chunk,Threads,Time. 
+* **numba_results.csv**: Resultados de mejores tiempos vs procesador para Numba. 
